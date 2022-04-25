@@ -1,5 +1,5 @@
 # Rust codewars
-**Rust shit I made in codewars.**
+**Rust stuff I made in codewars**
 
 - [Python codewars.](https://github.com/r4v10l1/codewars-python)
 - [Shell codewars.](https://github.com/r4v10l1/codewars-shell)
